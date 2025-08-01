@@ -61,12 +61,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GregZausa&theme=blue_navy&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="200" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GregZausa&theme=blue_navy&hide_border=false" height="200" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" height="200"/>
 </p>
 
 ---
