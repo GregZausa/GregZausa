@@ -13,9 +13,9 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://facebook.com/gczxc"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/gregclarence.zausa"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
   <a href="https://instagram.com/gczxc_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/gregzausa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/greg-clarence-zausa-a8babb293/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -63,9 +63,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="200"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="118" width="300"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GregZausa&theme=blue_navy&hide_border=false" height="200" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GregZausa&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="138" width="350"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GregZausa&theme=blue_navy&hide_border=false" height="300" width="350"/>
 </p>
+
 ---
 
 ## ✍️ Dev Quote
