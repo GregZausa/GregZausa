@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Building+the+Future+One+Commit+at+a+Time;01000111+01110010+01100101+01100111+%3A%3A+Gregabyte+Initialized" alt="Typing SVG" />
 </h1>
+
 
 
 <p align="center">
@@ -76,7 +77,10 @@
 </p>
 
 ---
-<!-- ![snake gif](https://github.com/GregZausa/GregZausa/blob/output/github-snake-dark.svg) -->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
+</picture> -->
 <div align="center">
   <img align="center" height="500" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRiYnkxdDhpNDVycm1sZnJzbWZpY2Z1eHZmcWd6a2xuaXpxeWR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif" alt="Coding GIF" />
   <a href="https://open.spotify.com/user/31smfdyluo5gazlh26qwi4f5zf4m">
@@ -86,10 +90,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
-</picture>
+![snake gif](https://github.com/GregZausa/GregZausa/blob/output/github-snake.svg)
 
 ---
 
