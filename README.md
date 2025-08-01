@@ -76,7 +76,7 @@
 </p>
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg) -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
