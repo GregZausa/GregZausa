@@ -87,8 +87,8 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GregZausa/GregZausa/main/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GregZausa/GregZausa/main/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
