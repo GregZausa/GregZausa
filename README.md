@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Building+the+Future+One+Commit+at+a+Time;01000111+01110010+01100101+01100111+%3A%3A+Gregabyte+Initialized" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=git+init+Gregabyte;System+Booting...;01000111+01110010+01100101+01100111+::+Gregabyte+Initialized;Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
 </h1>
+
 
 
 
