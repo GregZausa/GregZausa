@@ -82,6 +82,8 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GregZausa/GregZausa/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
 <div align="center">
   <img align="center" height="500" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRiYnkxdDhpNDVycm1sZnJzbWZpY2Z1eHZmcWd6a2xuaXpxeWR0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif" alt="Coding GIF" />
   <a href="https://open.spotify.com/user/31smfdyluo5gazlh26qwi4f5zf4m">
