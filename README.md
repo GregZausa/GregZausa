@@ -15,7 +15,7 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="[https://www.facebook.com/gregclarence.zausa](https://www.facebook.com/Gregabyte)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/Gregabyte"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
   <a href="https://instagram.com/gczxc_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/greg-clarence-zausa-a8babb293/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
